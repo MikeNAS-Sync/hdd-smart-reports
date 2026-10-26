@@ -1,4 +1,4 @@
-# hdd-smart-reports
+HDD SMART Reports
 
 ```
 sudo smartctl -x /dev/sdX > SERIAL-smart-before.txt
